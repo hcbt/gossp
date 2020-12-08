@@ -1,8 +1,8 @@
 package vocoder
 
 import (
-	"github.com/r9y9/gossp/3rdparty/sptk"
-	"github.com/r9y9/gossp/mgcep"
+	"github.com/hcbt/gossp/3rdparty/sptk"
+	"github.com/hcbt/gossp/mgcep"
 	"math"
 	"testing"
 )

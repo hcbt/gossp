@@ -4,7 +4,7 @@ package stft
 
 import (
 	"github.com/mjibson/go-dsp/fft"
-	"github.com/r9y9/gossp/window"
+	"github.com/hcbt/gossp/window"
 )
 
 // Reference:

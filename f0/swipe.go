@@ -1,7 +1,7 @@
 package f0
 
 import (
-	"github.com/r9y9/gossp/3rdparty/sptk"
+	"github.com/hcbt/gossp/3rdparty/sptk"
 )
 
 // SWIPE: A SAWTOOTH WAVEFORM INSPIRED PITCH ESTIMATOR

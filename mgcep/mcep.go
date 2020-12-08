@@ -1,7 +1,7 @@
 package mgcep
 
 import (
-	"github.com/r9y9/gossp/3rdparty/sptk"
+	"github.com/hcbt/gossp/3rdparty/sptk"
 )
 
 func MCep(audioBuffer []float64, order int, alpha float64) []float64 {

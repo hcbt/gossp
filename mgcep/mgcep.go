@@ -3,9 +3,9 @@ package mgcep
 
 import (
 	"github.com/mjibson/go-dsp/fft"
-	"github.com/r9y9/gossp"
-	"github.com/r9y9/gossp/3rdparty/mcepalpha"
-	"github.com/r9y9/gossp/3rdparty/sptk"
+	"github.com/hcbt/gossp"
+	"github.com/hcbt/gossp/3rdparty/mcepalpha"
+	"github.com/hcbt/gossp/3rdparty/sptk"
 )
 
 // MGCep performs Mel-Generalized Cepstrum analysis and returns mgcep

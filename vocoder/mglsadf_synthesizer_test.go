@@ -1,12 +1,12 @@
 package vocoder
 
 import (
-	"github.com/r9y9/gossp"
-	"github.com/r9y9/gossp/excite"
-	"github.com/r9y9/gossp/f0"
-	"github.com/r9y9/gossp/io"
-	"github.com/r9y9/gossp/mgcep"
-	"github.com/r9y9/gossp/window"
+	"github.com/hcbt/gossp"
+	"github.com/hcbt/gossp/excite"
+	"github.com/hcbt/gossp/f0"
+	"github.com/hcbt/gossp/io"
+	"github.com/hcbt/gossp/mgcep"
+	"github.com/hcbt/gossp/window"
 	"log"
 	"testing"
 )

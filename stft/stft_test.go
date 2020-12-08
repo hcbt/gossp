@@ -1,8 +1,8 @@
 package stft
 
 import (
-	"github.com/r9y9/gossp/io"
-	"github.com/r9y9/gossp/window"
+	"github.com/hcbt/gossp/io"
+	"github.com/hcbt/gossp/window"
 	"log"
 	"math"
 	"testing"
