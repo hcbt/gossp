@@ -1,0 +1,4 @@
+github.com/mjibson/go-dsp v0.0.0-20180508042940-11479a337f12 h1:dd7vnTDfjtwCETZDrRe+GPYNLA1jBtbZeyfyE8eZCyk=
+github.com/mjibson/go-dsp v0.0.0-20180508042940-11479a337f12/go.mod h1:i/KKcxEWEO8Yyl11DYafRPKOPVYTrhxiTRigjtEEXZU=
+github.com/r9y9/go-dsp v0.0.0-20140323125827-6ccdfeca7723 h1:ayBl8IZH8eWYtuFsRXHTJY3EV+DzqNnURqXxrLwmcl4=
+github.com/r9y9/go-dsp v0.0.0-20140323125827-6ccdfeca7723/go.mod h1:jX0wm5h0OepCRriD/3CGtsWd6PfILibNpvRhXgCYSyU=
